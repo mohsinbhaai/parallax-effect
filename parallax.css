@@ -1,0 +1,30 @@
+div {
+    height: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.div1-class {
+    font-size: 47px;
+    color: linen;
+    text-align: center;
+    padding: 140px 0px;
+}
+
+.div2-class {
+    font-size: 47px;
+    color: linen;
+    text-align: center;
+    padding: 140px 0px;
+}
+
+.div3-class {
+    
+    padding: 0;
+    color: gainsboro;
+}
