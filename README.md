@@ -1,3 +1,5 @@
 # simple-parallax-effect
 
-Simple parallax effect. Download and run index.html
+Simple parallax effect. 
+
+https://mohsinbhaai.github.io/parallax-effect/
